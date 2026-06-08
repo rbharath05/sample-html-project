@@ -4,12 +4,9 @@ table{
 th{
     color: rgb(255, 0, 47);
 }
-td{
-    color: blue;
-}
 #head2{
     color: green;
 }
 .title2{
-    color: green;
+    color: rgb(244, 8, 212);
 }
