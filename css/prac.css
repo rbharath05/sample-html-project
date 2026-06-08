@@ -1,0 +1,15 @@
+table{
+    width: 30%;
+}
+th{
+    color: rgb(255, 0, 47);
+}
+td{
+    color: blue;
+}
+#head2{
+    color: green;
+}
+.title2{
+    color: green;
+}
